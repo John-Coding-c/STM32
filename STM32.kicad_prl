@@ -54,11 +54,11 @@
       "ly_points"
     ],
     "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "integration_disabled": false,
-    "repo_type": "",
+    "repo_type": "https",
     "repo_username": "",
     "ssh_key": ""
   },
